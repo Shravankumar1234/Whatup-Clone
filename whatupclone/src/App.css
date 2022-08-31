@@ -1,0 +1,14 @@
+.App{
+  display: grid;
+  place-items:center;
+  height: 100vh;
+  background: #dadada;
+
+}
+.Appcontent{
+  display: flex;
+  background: #ededed;
+  height: 100vh;
+  width: 100vw;
+  box-shadow: -1px 4px 20px -6px rgba(0,0,0,0.75);
+}
